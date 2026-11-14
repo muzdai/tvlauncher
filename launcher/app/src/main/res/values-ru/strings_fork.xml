@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fork_weather_state">Погода: %1$s</string>
+    <string name="fork_weather_range_state">Прогноз: %1$s</string>
+    <string name="fork_rates_state">Курс НБГ: %1$s</string>
+    <string name="fork_weather_city_title">Город для погоды</string>
+    <string name="fork_weather_city_hint">Название города</string>
+    <string name="fork_weather_search">Найти</string>
+    <string name="fork_weather_not_found">Город не найден или нет сети</string>
+    <string name="fork_weather_range_title">Длина прогноза</string>
+    <string-array name="fork_weather_ranges">
+        <item>Сейчас</item>
+        <item>Сегодня</item>
+        <item>3 дня</item>
+        <item>Неделя</item>
+    </string-array>
+    <string name="fork_info_credit">Погода: Open-Meteo.com (CC BY 4.0) · Курс: Национальный банк Грузии · Новости: Google News</string>
+    <string name="fork_qs_system">Система</string>
+    <string name="fork_qs_home">Главный экран</string>
+    <string name="fork_wallpaper_random">Случайно (все группы)</string>
+    <string name="fork_tile_close">Закрыть</string>
+    <string name="fork_tile_remove">Убрать</string>
+    <string name="fork_tile_closed">%1$s закрыто</string>
+    <string name="fork_tile_still_running">%1$s не остановилось</string>
+    <string name="fork_tile_allow_adb">Разрешите отладку для лаунчера в окне на экране ТВ (галочка «Всегда разрешать») и повторите</string>
+    <string name="fork_tile_no_adb">Отладка выключена: нажмите «Остановить» на этой странице</string>
+    <string name="fork_library_to_dock">На панель</string>
+    <string name="fork_dock_transparency">Прозрачность дока</string>
+    <string name="fork_news_state">Новости: %1$s</string>
+    <string name="fork_news_size">Размер шрифта новостей</string>
+    <string name="fork_news_speed">Скорость прокрутки новостей</string>
+    <string name="fork_news_topic_state">Раздел новостей: %1$s</string>
+    <string name="fork_news_topic_title">Раздел новостей</string>
+    <string-array name="fork_news_topics">
+        <item>Мир</item><item>Главное</item><item>Грузия</item><item>Бизнес</item><item>Технологии</item>
+        <item>Наука</item><item>Спорт</item><item>Развлечения</item><item>Здоровье</item>
+    </string-array>
+    <string name="fork_news_bg">Прозрачность подложки новостей</string>
+    <string name="fork_keys_title">Кнопки пульта</string>
+    <string name="fork_key_netflix">Кнопка Netflix</string>
+    <string name="fork_key_prime">Кнопка Prime Video</string>
+    <string name="fork_key_youtube">Кнопка YouTube</string>
+    <string name="fork_key_tcl_channel">Кнопка TCL Channel</string>
+    <string name="fork_key_default">По умолчанию</string>
+    <string name="fork_key_nothing">Ничего</string>
+    <string name="fork_qs_settings_panel">Быстрые настройки</string>
+    <string name="fork_key_live_tv">Кнопка Live TV</string>
+    <string name="fork_key_live_tv_action">Эфир (Live TV)</string>
+</resources>

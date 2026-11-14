@@ -1,0 +1,11 @@
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+launcher/hs_err_pid*.log
+launcher/replay_pid*.log
+.DS_Store

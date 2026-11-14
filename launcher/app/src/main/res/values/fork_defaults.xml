@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- tvlauncher fork: built-in defaults for the fork's keys; a theme's config.json still overrides each one. -->
+<resources>
+    <bool name="fork_home_dock_only">true</bool>
+    <bool name="fork_library_button_left">true</bool>
+    <integer name="fork_menu_opacity">70</integer>
+    <bool name="fork_tile_menu_close">true</bool>
+    <bool name="fork_show_weather">true</bool>
+    <bool name="fork_show_nbg_rates">true</bool>
+    <bool name="fork_show_news">true</bool>
+    <!-- The dock band's opacity without a theme (stock: 100). -->
+    <integer name="fork_dock_opacity">40</integer>
+</resources>

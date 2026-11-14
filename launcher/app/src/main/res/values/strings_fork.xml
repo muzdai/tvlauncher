@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- tvlauncher fork: weather and NBG rates (InfoWidgets). -->
+<resources>
+    <string name="fork_weather_state">Weather: %1$s</string>
+    <string name="fork_weather_range_state">Forecast: %1$s</string>
+    <string name="fork_rates_state">NBG exchange rates: %1$s</string>
+    <string name="fork_weather_city_title">Weather city</string>
+    <string name="fork_weather_city_hint">City name</string>
+    <string name="fork_weather_search">Search</string>
+    <string name="fork_weather_not_found">No city found, or no network</string>
+    <string name="fork_weather_range_title">Forecast length</string>
+    <string-array name="fork_weather_ranges">
+        <item>Now</item>
+        <item>Today</item>
+        <item>3 days</item>
+        <item>Week</item>
+    </string-array>
+    <string name="fork_info_credit">Weather: Open-Meteo.com (CC BY 4.0) · Rates: National Bank of Georgia · News: Google News</string>
+    <string name="fork_qs_system">System</string>
+    <string name="fork_qs_home">Home screen</string>
+    <string name="fork_wallpaper_random">Random (all groups)</string>
+    <string name="fork_tile_close">Close</string>
+    <string name="fork_tile_remove">Remove</string>
+    <string name="fork_tile_closed">%1$s closed</string>
+    <string name="fork_tile_still_running">%1$s did not stop</string>
+    <string name="fork_tile_allow_adb">Allow USB debugging for this launcher on the TV prompt (tick Always allow), then try again</string>
+    <string name="fork_tile_no_adb">USB debugging is off: press Force stop on this page</string>
+    <string name="fork_library_to_dock">To dock</string>
+    <string name="fork_dock_transparency">Dock transparency</string>
+    <string name="fork_news_state">News: %1$s</string>
+    <string name="fork_news_size">News text size</string>
+    <string name="fork_news_speed">News scroll speed</string>
+    <string name="fork_news_topic_state">News section: %1$s</string>
+    <string name="fork_news_topic_title">News section</string>
+    <string-array name="fork_news_topics">
+        <item>World</item><item>Top stories</item><item>Georgia</item><item>Business</item><item>Technology</item>
+        <item>Science</item><item>Sports</item><item>Entertainment</item><item>Health</item>
+    </string-array>
+    <string name="fork_news_bg">News band transparency</string>
+    <string name="fork_keys_title">Remote buttons</string>
+    <string name="fork_key_netflix">Netflix button</string>
+    <string name="fork_key_prime">Prime Video button</string>
+    <string name="fork_key_youtube">YouTube button</string>
+    <string name="fork_key_tcl_channel">TCL Channel button</string>
+    <string name="fork_key_default">Default</string>
+    <string name="fork_key_nothing">Nothing</string>
+    <string name="fork_qs_settings_panel">Quick settings</string>
+    <string name="fork_key_live_tv">Live TV button</string>
+    <string name="fork_key_live_tv_action">Live TV (antenna)</string>
+</resources>
